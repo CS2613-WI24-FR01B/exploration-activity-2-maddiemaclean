@@ -1,15 +1,15 @@
 # EA2
 
-> 1. **Which package/library does the sample program demonstrate?**
+ 1. **Which package/library does the sample program demonstrate?**
 
-Turtle in Python
- 
-> 2. **How does someone run your program?**
+> Turtle in Python
 
-Simply run the program like you would any other. Turtle comes installed with Python
+2. **How does someone run your program?**
 
-> 3. **What purpose does your program serve?**
+> Simply run the program like you would any other. Turtle comes installed with Python
 
-This program draws a variety of shapes and fills them in with color all based on User Input.
+3. **What purpose does your program serve?**
 
-> 4. **What would be some sample input/output?**
+> This program draws a variety of shapes and fills them in with color all based on User Input.
+
+ 4. **What would be some sample input/output?**
