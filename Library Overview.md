@@ -34,6 +34,8 @@ The idea of a visual drawing board like Turtle goes back to the 1967 as it was p
 
 ### 7b. Would you continue using this package/library? Why or why not?
 
+Yes, during this exploration activity I had a bunch of ideas for other projects I could do. I'm enjoyed working with Turtle 
+
 
 # References 
 > [1] https://fakerjs.dev/guide/
