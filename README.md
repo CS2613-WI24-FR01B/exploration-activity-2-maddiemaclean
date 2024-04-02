@@ -19,7 +19,7 @@
 > 2. What color you want the shape to be and
 > 3. How big you want it to be ( in pixels )
 
-![Screenshot (137)](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-maddiemaclean/assets/156142897/57cbe0da-6638-4ddc-95ef-a1b19905383f)
 ![Screenshot (134)](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-maddiemaclean/assets/156142897/db8e734e-40fe-4e21-9545-37638d126376)
+![Screenshot (137)](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-maddiemaclean/assets/156142897/57cbe0da-6638-4ddc-95ef-a1b19905383f)
 ![Screenshot (135)](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-maddiemaclean/assets/156142897/dc3d28b8-5689-457d-a073-a559289c830c)
 ![Screenshot (136)](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-maddiemaclean/assets/156142897/ecfa64de-ee78-4acb-8171-23efc2698248)
