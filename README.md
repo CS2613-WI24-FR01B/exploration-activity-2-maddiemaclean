@@ -14,4 +14,7 @@
 
  4. **What would be some sample input/output?**
 
-> The program will prompt you with three different questions, 1. What shape you'd like to draw make, 2. What color you want the shape to be and 3. How big you want it to be ( in pixels )
+> The program will prompt you with three different questions
+> 1. What shape you'd like to draw make
+> 2. What color you want the shape to be and
+> 3. How big you want it to be ( in pixels )
