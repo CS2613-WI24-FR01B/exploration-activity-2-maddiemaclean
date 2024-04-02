@@ -18,6 +18,8 @@ I made a program that lets the user input a shape, color and size and the progra
 
 ## Question 4. When was it created?
 
+The idea of a visual drawing board like Turtle goes back to the 1967 as it was part of the orignal Logo programming language used to teach kids programming, however it was offically added to python in version 2.5 in September 2006
+
 
 ## Question 5. Why did you select this package/library?
 
