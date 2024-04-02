@@ -12,4 +12,4 @@ Simply run the program like you would any other. Turtle comes installed with Pyt
 
 This program draws a variety of shapes and fills them in with color all based on User Input.
 
-> 7. **What would be some sample input/output?**
+> 4. **What would be some sample input/output?**
