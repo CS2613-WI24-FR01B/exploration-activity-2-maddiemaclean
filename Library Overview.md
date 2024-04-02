@@ -7,9 +7,11 @@ The library I chose was Turtle for python
 ## Question 2.What is the package/library
 ### 2a. What purpose does it serve?
 
+Turtle offers a visual interface for users. It works as a drawing board and by using commands such as turtle.left(),turtle.forward() and turtle.right() we can move the turtle around.
 
 ### 2b. How do you use it
 
+I made a program that lets the user input a shape, color and size and the program will draw that shape then fill it in with that color. Turtle also allows us to have a GUI to accept user input which I also took advantage of.
 
 ## Question 3. What are the functionalities of the package/library?
 
