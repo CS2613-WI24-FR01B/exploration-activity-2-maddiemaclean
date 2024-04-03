@@ -43,11 +43,11 @@ _example: cursor.fillcolor(colorInput)_
 
 fills in the shape with the color in turtle.fillcolor(x)
 
-_example: cursor.begin_fill() and cursor.end_fill()_
+_example: cursor.begin_fill() and cursor.end_fill()_ [1]
 
 ## Question 4. When was it created?
 
-The idea of a visual drawing board like Turtle goes back to the 1967 as it was part of the orignal Logo programming language used to teach kids programming, however it was offically added to python in version 2.5 in September 2006
+The idea of a visual drawing board like Turtle goes back to the 1967 as it was part of the orignal Logo programming language used to teach kids programming, [2] however it was offically added to python in version 2.5 in September 2006 [3]
 
 
 ## Question 5. Why did you select this package/library?
@@ -72,10 +72,9 @@ Yes, during this exploration activity I had a bunch of ideas for other projects 
 
 
 # References 
-> [1] https://fakerjs.dev/guide/
+> [1] (https://dev.to/nite_dev/comprehensive-documentation-of-the-turtle-module-25oj)
 > 
-> [2] https://fakerjs.dev/api/
+> [2] (https://docs.python.org/3/library/turtle.html)
 > 
-> [3] https://fakerjs.dev/api/person.html
+> [3] https://documentation.help/Python-3.7/turtle.html
 > 
-> [4] [https://fakerjs.dev/about/announcements/2022-01-14]https://fakerjs.dev/about/announcements/2022-01-14.html#:~:text=Faker%20was%20first%20implemented%20in%20Perl%20in%202004,including%20Ruby%2C%20Python%2C%20Java%2C%20Clojure%2C%20PHP%2C%20and%20C%23.
