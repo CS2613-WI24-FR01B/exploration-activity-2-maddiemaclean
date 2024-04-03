@@ -18,17 +18,32 @@ I made a program that lets the user input a shape, color and size and the progra
 > turtle.textInput
 
 creates a GUI with a text input prompt.
-Example: userInput = turtle.textinput("userInput", "Enter the what shape you would like the turtle to draw: ")
+
+example: userInput = turtle.textinput("userInput", "Enter the what shape you would like the turtle to draw: ")
 
 > turtle.right(x) and turtle.left(x)
 
 turns the cursor x degrees
-Example: cursor.left(120) or cursor.right(90)
 
-> cursor.forward(x)
+example: cursor.left(120) or cursor.right(90)
+
+> turtle.forward(x)
 
 moves the cursor x amount of pixels
 
+example: cursor.forward(sizeInput)
+
+> turtle.fillcolor(x)
+
+selects the color x to fill the shape with
+
+example: cursor.fillcolor(colorInput)
+
+> turtle.begin_fill(), turtle.end_fill()
+
+fills in the shape with the color in turtle.fillcolor(x)
+
+example: cursor.begin_fill() and cursor.end_fill()
 
 ## Question 4. When was it created?
 
