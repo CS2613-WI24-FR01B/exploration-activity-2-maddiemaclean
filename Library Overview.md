@@ -7,11 +7,11 @@ The library I chose was Turtle for python
 ## Question 2.What is the package/library
 ### 2a. What purpose does it serve?
 
-Turtle offers a visual interface for users. It works as a drawing board and by using commands such as turtle.left(),turtle.forward() and turtle.right() we can move the turtle around.
+Turtle offers a visual interface for users. It works as a drawing board and by using commands such as turtle.left(),turtle.forward() and turtle.right() we can move the turtle around. This can be used to make simple drawings but in more complex cases can graph out mathmatical functions like quadratic equations or the fibanacci sequence.
 
 ### 2b. How do you use it
 
-I made a program that lets the user input a shape, color and size and the program will draw that shape then fill it in with that color. Turtle also allows us to have a GUI to accept user input which I also took advantage of.
+I made a program that lets the user input a shape, color and size and the program will draw that shape then fill it in with that color. Turtle also allows us to have a GUI to accept user input which I also took advantage of. You can draw any of the following shapes, squares, circles, stars, triangles and a spiral and color them in with a variety of different colors. You can allow adjust the size of the shape by inserting the number of pixels you want it to be.
 
 ## Question 3. What are the functionalities of the package/library?
 
@@ -29,12 +29,15 @@ The idea of a visual drawing board like Turtle goes back to the 1967 as it was p
 
 ## Question 7. How was your overall experience with the package/library?
 
+Turtle was a great library. I found it was pretty easy to pick up and work with and that learning the basics was easy but there was also more complex things you could do if you wanted. I had no issues getting the library working with is always nice as well!
 
 ### 7a. When would you recommend this package/library to someone?
 
+I would recommend this to anyone who likes working with visuals/images when coding. 
+
 ### 7b. Would you continue using this package/library? Why or why not?
 
-Yes, during this exploration activity I had a bunch of ideas for other projects I could do. I'm enjoyed working with Turtle 
+Yes, during this exploration activity I had a bunch of ideas for other projects I could do.
 
 
 # References 
