@@ -15,6 +15,20 @@ I made a program that lets the user input a shape, color and size and the progra
 
 ## Question 3. What are the functionalities of the package/library?
 
+> turtle.textInput
+
+creates a GUI with a text input prompt.
+Example: userInput = turtle.textinput("userInput", "Enter the what shape you would like the turtle to draw: ")
+
+> turtle.right(x) and turtle.left(x)
+
+turns the cursor x degrees
+Example: cursor.left(120) or cursor.right(90)
+
+> cursor.forward(x)
+
+moves the cursor x amount of pixels
+
 
 ## Question 4. When was it created?
 
@@ -23,9 +37,11 @@ The idea of a visual drawing board like Turtle goes back to the 1967 as it was p
 
 ## Question 5. Why did you select this package/library?
 
+I'm a pretty artistic person so when I saw that Turtle lets you draw with programming I wanted to check it out. After checking out what it could do I instantly had a bunch of ideas for a project.
 
 ## Question 6. How did learning the package/library influence your learning of the language?
 
+This project really gave me a chance to go back to basics and focus on basic concepts like looping. With Turtle drawing out the loops to draw the shapes, it helped me visualize the errors better which I think we help me approach debugging differently.
 
 ## Question 7. How was your overall experience with the package/library?
 
